@@ -1,0 +1,6 @@
+[tool.basedpyright]
+reportAny = "none"
+reportExplicitAny = "none"
+
+[tool.setuptools.packages.find]
+where = ["utils"]  # Set the root directory to 'app'

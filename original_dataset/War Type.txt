@@ -1,0 +1,13 @@
+War Type
+1   = versus std
+2   = versus fog
+3   = ranked std
+4   = ranked fog
+9   = free std
+10  = free fog
+15  = coop std
+16  = coop fog
+17  = unranked std
+18  = unranked fog
+19  = tourney std
+20  = tourney fog
